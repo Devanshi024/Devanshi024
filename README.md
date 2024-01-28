@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devanshi Thakkar</h1>
-- 🔭 I am currently involved in *web development and cloud computing*
-
-- 🤝 I’m looking for help with *Cloud Computing*
+- 🔭 I am currently involved in *web development*
 
 - 💬 Ask me about *ReactJS,Jira,HTML,CSS,Bootstrap,Python-Django,Java*
 
